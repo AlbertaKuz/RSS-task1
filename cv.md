@@ -4,7 +4,7 @@
 * Location: St. Petersburg, Russia
 * Phone: +7996 76 36 317 
 * E-mail: koraalisaa@gmail.com
-* GitHub: [AlbertaKuz] (https://github.com/AlbertaKuz)
+* GitHub: [AlbertaKuz](https://github.com/AlbertaKuz)
 
 
 ### About Myself:
