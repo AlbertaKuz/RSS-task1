@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&display=swap');
 body {
     display: flex;
     flex-direction: column;
@@ -7,6 +6,8 @@ body {
     margin: 0; 
     padding: 0;
     background-color: rgb(245, 230, 239);
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(65, 63, 64);
   }
   html {
     scroll-behavior: smooth; 
@@ -24,25 +25,57 @@ body {
     margin-left: auto;
     margin-right: auto;
     
-
+}
+h2{
+    border-bottom: 2px solid rgb(78, 59, 67);
 }
 .header{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     margin-left: 80px;
     margin-top: 24px;
     margin-right: 80px;
-    
 }
 .name{
-    margin-right: 86px;
+    margin-right: 90px;
 }
 p{
-    font-size: 18px;
+    font-size: 16px;
 }
 ul{
     font-size: 18px;
 }
+.content{
+    font-size: 18px;
+}
 .photo{
     border-radius: 115px;
+    margin-right: 100px;
+    margin-left: 40px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(110, 83, 95);
+    color: white;
+    padding: 10px;
+}
+.my_github{
+    display: flex;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.github_icon{
+margin-right: 10px;
+}
+.rss_icon{
+    margin-top: 10px;
+}
+.job{
+    font-size: 22px;
 }
